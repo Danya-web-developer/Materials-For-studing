@@ -1,0 +1,14 @@
+h1 {
+  padding-left: 50px;
+}
+
+.links__box {
+  padding: 50px;
+}
+
+a {
+  display: block;
+  text-decoration: none;
+  color: black;
+  margin-bottom: 30px;
+}
